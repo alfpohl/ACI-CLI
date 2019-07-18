@@ -1,0 +1,6 @@
+! AP July 18th 2019
+This project uses use cases from Cisco ACI-Initial Deployment Cookbook, April 2019 [1] and will try to implement those only
+with NX-OS CLI on the APICs. Its developed and tested first with ACI VM Simulator V4.1(1k).
+!
+References:
+[1]: https://www.cisco.com/c/en/us/td/docs/switches/datacenter/aci/apic/white_papers/Cisco-ACI-Initial-Deployment-Cookbook.html
